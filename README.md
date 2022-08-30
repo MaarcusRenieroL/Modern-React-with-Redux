@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Maarcus Reniero L
 - 👀 I’m interested in all beginner level python and web development projects
-- 🌱 I’m currently learning Django and AWS 
 - 💞️ I’m looking to collaborate with all beginner people and improve my programming skills across all directions
 - 📫 You can reach me on Instagram, Twitter, Mail etc. And I have given my ids and below 
 - Instagram : Username - _copyninja17
